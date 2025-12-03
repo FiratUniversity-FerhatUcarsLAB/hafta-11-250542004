@@ -1,3 +1,10 @@
+/*
+ * Ad Soyad: Emirhan LEVENTER 
+ *  Ogrenci No: 250542004
+ * Proje: Exercise 4.5 Flow + Stack Diagram + Cikti
+ * Tarih: 03.12.2025
+ */
+     
 public class Exercise4_5 {
 
     public static void zoop(String fred, int bob) {
