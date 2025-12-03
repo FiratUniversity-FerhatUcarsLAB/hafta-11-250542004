@@ -7,7 +7,7 @@
 
 import java.util.Scanner;
 
-public class Exersize4_1 {
+public class Exercise4_1 {
 
     public static void printAmerican(String day, int date , String month, int year){
         System.out.println("Amerikan Sistemine Gore Tarih Yazdiriliyor :");
